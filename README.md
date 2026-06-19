@@ -1,41 +1,60 @@
-#👋, I'm Mohamad Saghir
-💻 Full Stack Developer (MERN)
-## 🚀 About Me
-Full Stack Developer focused on building modern web apps with clean architecture and real-world functionality.
-## 🛠️ Tech Stack
-```javascript
-const mohamadSaghir = {
-  pronouns: "he" | "him",
-  code: [
-    "JavaScript",
-    "TypeScript",
-    "HTML",
-    "CSS"
-  ],
-  tools: [
-    "React",
-    "Redux Toolkit",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "Mongoose",
-    "Docker",
-    "Git",
-    "GitHub",
-    "Postman"
-  ],
-  architecture: [
-    "REST API",
-    "MVC Pattern",
-    "JWT Authentication"
-  ],
+# 👋 Hey, I'm Mohamad Saghir
 
-  challenge: "Building full-stack MERN applications and improving backend architecture 🚀"
-};
-```
+💻 Full Stack Developer (MERN)
+
+---
+
+## 🚀 About Me
+
+I build modern web applications with clean UI and scalable backend systems.
+Focused on writing maintainable code and real-world projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* Redux Toolkit
+* HTML / CSS
+* Bootstrap / MUI
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+**Database**
+
+* MongoDB
+* Mongoose
+
+**Tools**
+
+* Git & GitHub
+* Postman
+* Docker
+
+---
+
+## 📂 What I Build
+
+* Full Stack MERN Apps
+* Admin Dashboards
+* Authentication Systems
+* REST APIs
+
+---
 
 ## 📫 Contact
 
-* GitHub: [github.com/mohamadsaghir](https://github.com/mohamadsaghir)
-* Portfolio: [https://ww.saghirdev.mohamadsaghir152.workers.dev](https://saghirdev.mohamadsaghir152.workers.dev/)
+* Portfolio: saghirdev.mohamadsaghir152.workers.dev
 * Email: [mohamadsaghir152@gmail.com](mailto:mohamadsaghir152@gmail.com)
+* GitHub: github.com/mohamadsaghir
+
+---
+
+⚡ Always building, always improving.
