@@ -36,6 +36,6 @@ const mohamadSaghir = {
 
 ## 📫 Contact
 
-* GitHub: github.com/mohamadsaghir
-* Portfolio: saghirdev.mohamadsaghir152.workers.dev
+* GitHub: [github.com/mohamadsaghir](https://github.com/mohamadsaghir)
+* Portfolio: [https://ww.saghirdev.mohamadsaghir152.workers.dev](https://saghirdev.mohamadsaghir152.workers.dev/)
 * Email: [mohamadsaghir152@gmail.com](mailto:mohamadsaghir152@gmail.com)
